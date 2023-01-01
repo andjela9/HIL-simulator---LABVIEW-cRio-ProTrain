@@ -1,4 +1,4 @@
-# HIL-simulator---LABVIEW-cRio-ProTrain
+# Sorting Plant HIL simulator
 
 This group project was done during 6th semester course: Control algorithms in real time, Control engineering at Faculty of Technical Sciences, Novi Sad. 
 
